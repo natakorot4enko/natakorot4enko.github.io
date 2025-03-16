@@ -103,6 +103,23 @@ header {
   font-size: 18px;
   font-weight: 400;
 }
+
+.hero__CV {
+ text-decoration: none;
+background-color: #d9f6ff;
+  
+  padding: 10px 20px;
+   border-radius: 45px;
+  cursor: pointer;
+    display: flex;
+  justify-content: center;
+  align-items: center; 
+  margin-bottom: 15px
+}
+.hero__CVV { text-decoration: none;
+  color: black;}
+
+
 .hero__links {
   display: flex;
    justify-content: center
